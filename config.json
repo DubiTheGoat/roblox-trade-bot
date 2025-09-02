@@ -60,15 +60,16 @@
         "max_items": 3       
     },
     "item_ratio_constraints": {
-        "max_item_ratio_upgrade": 0.80,
-        "min_item_ratio_upgrade": 0.05
-    }
-}
-
+                        "max_item_ratio_upgrade": 0.80,
+                        "min_item_ratio_upgrade": 0.05
+                    }
+                }
+            },
             "webhook": "https://discord.com/api/webhooks/1412381401126535168/v6MneabmdF-e8Cnr1M0RHPqpWquBLGZIgl8uvPNWjOIXFr7qL6JYKPjMQD5c88sihcRV"
         }
     ]
 }
+
 
 
 
