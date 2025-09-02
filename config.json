@@ -31,8 +31,8 @@
         "rap_only_base": true
     },
     "thresholds": {
-        "min_receiving_value_when_downgrading": 1.08,   // require at least +8% RAP overpay
-        "max_giving_value_when_upgrading": 1.08,        // still only allow 8% max overpay on upgrades
+        "min_receiving_value_when_downgrading": 1.08,   
+        "max_giving_value_when_upgrading": 1.08,        
         "max_edge_value": 1.18,
         "min_trade_send_value_total": 500
     },
@@ -40,8 +40,8 @@
         "base_divisor": 1000,
         "demand_multiplier": 100,
         "rare_multiplier": 50,
-        "lower_rap_only_item": 1.0,     // don’t penalize RAP-only items
-        "lower_projected_item": 0.5     // block projected RAP-inflated items
+        "lower_rap_only_item": 1.0,     
+        "lower_projected_item": 0.5     
     },
     "penalties": {
         "bulk_penalty_rate": 0.01,
@@ -57,7 +57,7 @@
     },
     "downgrade": {
         "min_items": 1,
-        "max_items": 3        // let your 6k split into 2–3 RAP items if needed
+        "max_items": 3       
     },
     "item_ratio_constraints": {
         "max_item_ratio_upgrade": 0.80,
@@ -69,6 +69,7 @@
         }
     ]
 }
+
 
 
 
