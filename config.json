@@ -31,7 +31,7 @@
                         "rap_only_base": false
                     },
                     "thresholds": {
-                        "min_receiving_value_when_downgrading": 1.06,
+                        "min_receiving_value_when_downgrading": 1,
                         "max_giving_value_when_upgrading": 1.07,
                         "max_edge_value": 1.15,
                         "min_trade_send_value_total": 500
@@ -65,10 +65,11 @@
                     }
                 }
             },
-            "webhook": "https://discord.com/api/webhooks/1411635503123529768/A4RAHDWFidBslDKu9Mn86_6_N4v6n6GswSwQGS1SXHt3SODGLXwh6zUzRSK2rDxL3NAy"
+            "webhook": "https://discord.com/api/webhooks/1412381401126535168/v6MneabmdF-e8Cnr1M0RHPqpWquBLGZIgl8uvPNWjOIXFr7qL6JYKPjMQD5c88sihcRV"
         }
     ]
 }
+
 
 
 
