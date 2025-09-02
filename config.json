@@ -33,7 +33,7 @@
                     "thresholds": {
                         "min_receiving_value_when_downgrading": 0.9,
                         "max_giving_value_when_upgrading": 1.07,
-                        "max_edge_value": 1.1,
+                        "max_edge_value": 1.3,
                         "min_trade_send_value_total": 500
                     },
                     "modifiers": {
@@ -69,6 +69,7 @@
         }
     ]
 }
+
 
 
 
