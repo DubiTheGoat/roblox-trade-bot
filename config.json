@@ -8,7 +8,7 @@
 
             
             "rolimon": {
-                "roli_verification_token": "",
+                "roli_verification_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ2ZXJzaW9uIjoxLCJwbGF5ZXJfZGF0YSI6eyJuYW1lIjoiZ2xhc3N3aW5kb3dxNjI3IiwiaWQiOjg4OTMyNDgzMjh9LCJpYXQiOjE3NTY5MDQyNzgsImV4cCI6MTc2NDY4MDMzOH0.fkIVyxfWqrSG_5cGrzBsWMs5OlYv603Sp-V_tFMI7uw",
                 "ads": {
                     "sleep_time": 1440,
                     "offers": []
@@ -69,6 +69,7 @@
         }
     ]
 }
+
 
 
 
