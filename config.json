@@ -19,7 +19,7 @@
                 }
             },
             "trade": {
-                "sleep_time": 30,
+                "sleep_time": 1,
                 "items": {
                     "not_for_trade": [928908332, 1048037],
                     "not_accepting": []
@@ -69,6 +69,7 @@
         }
     ]
 }
+
 
 
 
