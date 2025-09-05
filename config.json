@@ -34,7 +34,7 @@
                         "min_receiving_value_when_downgrading": 1.001,
                         "max_giving_value_when_upgrading": 1.02,
                         "max_edge_value": 1.03,
-                        "min_trade_send_value_total": 1000
+                        "min_trade_send_value_total": 0
                     },
                     "modifiers": {
                         "base_divisor": 1000,
@@ -69,6 +69,7 @@
         }
     ]
 }
+
 
 
 
